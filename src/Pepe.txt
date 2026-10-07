@@ -1,2 +1,13 @@
-public class Pepe{public static void main(String[] args){
-System.out.println("Comencem el projecte...");}}
+Public static void main(String[] args){
+	System.outprintln("Comencem el projecte...");
+	System.out.prinln(saluda("pepelu"));
+}
+
+
+public class Pepe{public static void 
+	main(String[] args){
+	System.out.println("Comencem el projecte...");}
+}
+
+public Sting saluda(String nom){
+	{retun "Hola" + nom + "\n\;}
