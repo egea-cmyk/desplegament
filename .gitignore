@@ -1,0 +1,9 @@
+lib/
+*.log
+bin/
+*.class
+.projec
+.classpath
+.settings/
+.log
+
